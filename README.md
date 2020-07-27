@@ -1,8 +1,8 @@
 # projects_website
 Data Science / Machine Learning projects portfolio
-1.  Open the file containing the Linux mascot.
-2.  Marvel at its beauty.
+1.  Open the file containing the good morning image.
+2.  Herewith the file:
 
-    ![Tux, the Linux mascot](/projects_website/master/github_site_gm1.png)
+    ![Good morning!!](/projects_website/master/github_site_gm1.png)
 
-3.  Close the file.
+
