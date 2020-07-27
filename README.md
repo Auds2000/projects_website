@@ -1,2 +1,2 @@
 # projects_website
-Data Science / Machine Learning project portfolio
+Data Science / Machine Learning projects portfolio
