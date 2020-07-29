@@ -9,3 +9,6 @@
 ## [Project 2: <Salary Estimator - Classification] 
 * https://github.com/Auds2000/projects_website/blob/master/regression_housing.ipynb
 * DESCRIPTION TO BE COMPLETED
+
+## [Project 2: <Other Estimator - Classification](https://github.com/Auds2000/projects_website/blob/master/regression_housing.ipynb) 
+To be completed
